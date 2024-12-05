@@ -11,7 +11,7 @@ from sanic_ext.extras.serializer.decorator import serializer
 from sanic_ext.extras.validation.decorator import validate
 
 
-__version__ = version("sanic-ext")
+__version__ = version("sanic-ext-fork")
 
 __all__ = [
     "Config",
